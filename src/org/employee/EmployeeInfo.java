@@ -6,8 +6,14 @@ public class EmployeeInfo {
 		System.out.println("Employee Name:Kanna");
 
 	}
+
 	private void employeeAddress() {
 		System.out.println("Employee Address:Adyar");
+
+	}
+
+	private void employeeId() {
+		System.out.println("EmployeeId:214567");
 
 	}
 
