@@ -12,9 +12,10 @@ public class EmployeeInfo {
 
 	}
 
-	private void employeeId() {
-		System.out.println("EmployeeId:214567");
-
+	public static void main(String[] args) {
+		
+		EmployeeInfo e = new EmployeeInfo();
+		
 	}
 
 }
