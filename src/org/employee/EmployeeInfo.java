@@ -12,9 +12,8 @@ public class EmployeeInfo {
 
 	}
 
-	private void employeeId() {
-		System.out.println("EmployeeId:214567");
-
+	private void employeePh() {
+		System.out.println("Employee Ph:9855865677");
 	}
 
 }
