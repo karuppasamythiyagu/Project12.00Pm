@@ -16,4 +16,9 @@ public class EmployeeInfo {
 		System.out.println("Employee Ph:9855865677");
 	}
 
+	public static void main(String[] args) {
+
+		EmployeeInfo e = new EmployeeInfo();
+	}
+
 }
