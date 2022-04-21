@@ -10,5 +10,11 @@ public class EmployeeInfo {
 		System.out.println("Employee Address:Adyar");
 
 	}
+	
+	
+	private void employeeAge() {
+		System.out.println("Employee Age:27");
+
+	}
 
 }
