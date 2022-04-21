@@ -12,9 +12,8 @@ public class EmployeeInfo {
 
 	}
 
-	private void employeeAge() {
-		System.out.println("Employee Age:27");
-
+	private void employeePh() {
+		System.out.println("Employee Ph:9855865677");
 	}
 
 }
